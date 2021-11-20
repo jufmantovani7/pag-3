@@ -1,5 +1,4 @@
-# pag-3
-Promoções
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -16,9 +15,9 @@ Promoções
 
             }
             </style>
+            
         <center>
-       <p><h1>Promoções de jogos </p></h1>
-      
+       <img src="BLACK FRIDAY1.png"/ alt="codigo HTML" width="20%"
     </head>
     <body>
         <table style="border: 2px solid rgb(0, 0, 0); padding: 3px">
